@@ -4,7 +4,7 @@
 👋 Hi there! I'm buse, a passionate software developer with a love 
 for building innovative solutions that make a difference.
 
-💻 My journey in the world of coding started almost two years ago, 
+💻 My journey in the world of coding started almost three years ago, 
 and since then, I've been on an exciting quest to explore the realms of technology.
 
 🚀 As a student, I try to explore as much of the software world as possible. 
